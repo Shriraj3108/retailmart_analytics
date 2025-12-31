@@ -9,7 +9,7 @@
 
 ## 🎯 Project Overview
 
-This project demonstrates enterprise-grade SQL analytics capabilities, transforming raw retail data into actionable business insights. Built as the capstone project for AccioJob SQL Bootcamp, it showcases real-world data engineering and analytics patterns used at companies like Flipkart, Amazon, and Swiggy.
+This project demonstrates enterprise-grade SQL analytics capabilities, transforming raw retail data into actionable business insights. It showcases real-world data engineering and analytics patterns used at companies like Flipkart, Amazon, and Swiggy.
 
 ### Key Features
 
@@ -235,15 +235,3 @@ This project demonstrates mastery of:
 - ✅ Frontend integration with Chart.js
 - ✅ Production deployment practices
 
-## 📜 License
-
-This project is created for educational purposes as part of AccioJob SQL Bootcamp.
-
-## 👨‍💻 Author
-
-**AccioJob SQL Bootcamp**  
-Instructor: Sayyed Siraj Ali
-
----
-
-⭐ If you found this project helpful, please give it a star!
